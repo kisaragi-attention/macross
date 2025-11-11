@@ -1,4 +1,5 @@
 ## Paper Manuscript at [Here](./macross.pdf)
+* The [final version](https://link.springer.com/chapter/10.1007/978-981-96-8728-2_12) differs slightly from the manuscript in terms of comparative experiments and paper content.
 
 ## How to Use
 
